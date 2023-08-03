@@ -41,7 +41,7 @@ function App(props) {
     <>
       {/* use head and add meta tag in head component  */}
       <div>
-        <title>Moviie</title>
+        <title>Barbiw</title>
         <link rel="shortcut icon" href="assets/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
