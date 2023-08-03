@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/barbiw/static/css/main.bf38d541.css",
+    "main.js": "/barbiw/static/js/main.cd50a963.js",
+    "index.html": "/barbiw/index.html",
+    "main.bf38d541.css.map": "/barbiw/static/css/main.bf38d541.css.map",
+    "main.cd50a963.js.map": "/barbiw/static/js/main.cd50a963.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf38d541.css",
+    "static/js/main.cd50a963.js"
+  ]
+}
