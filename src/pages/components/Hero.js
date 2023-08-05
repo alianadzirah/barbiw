@@ -6,11 +6,9 @@ function Hero() {
     <>
       {/*search start here*/}
           <div className={styles.hero_search}>
-            <p className={styles.hero_title}>Find your movies here!</p>
+            <p className={styles.hero_title}>Find Barbie movies here!</p>
             <p className={styles.hero_subtitle}>
-              Explore our gallery full of exciting films from all around the
-              globe only your yor entertainments. No hidden charges or
-              disturbing ads.
+            It is literally impossible to be a woman.
             </p>
           </div>
       {/*search end here*/}

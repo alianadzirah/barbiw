@@ -61,7 +61,7 @@ function App(props) {
       <div>
         {/* header start here */}
         <div className={styles.header}>
-          <p className={styles.header_logo}>Moviie</p>
+          <p className={styles.header_logo}>Barbiw</p>
           <div className={styles.header_tab}>
             <p onClick={homeHandler} className={styles.header_tab_label}>
               Home
@@ -87,7 +87,7 @@ function App(props) {
               <i class="material-symbols-outlined">
                 <span class="material-symbols-outlined">account_circle</span>
               </i>
-              <p className={styles.header_profile_name}>John Glich</p>
+              <p className={styles.header_profile_name}>Naddechan</p>
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@ function App(props) {
         <div className={styles.search}>
           <div className={styles.search_content}>
             <div className={styles.hero_logo}>
-              <img src="https://i.imgur.com/8fzmRvD.png"></img>
+              <img src="https://i.imgur.com/xgHQ9mH.png"></img>
             </div>
 
             <div>
@@ -128,7 +128,7 @@ function App(props) {
         {/* footer start here */}
         <div className={styles.footer}>
           <div className={styles.footer_section1}>
-            <p className={styles.footer_sec1_title}>Moviie</p>
+            <p className={styles.footer_sec1_title}>Barbiw</p>
             <p className={styles.footer_sec1_content}>
               Lorem ipsum dolor sit amet, consec tetur adipis cing elit, sed do
               eiusmod tempor incididunt ut labore et.
@@ -200,7 +200,7 @@ function App(props) {
                     <span class="material-symbols-outlined">location_on</span>
                   </i>
                   <p style={{ margin: "2%" }}>
-                    8819 Ohio St. South Gate, California 90280
+                    Cyberjaya, Selangor
                   </p>
                 </div>
               </div>
@@ -210,7 +210,7 @@ function App(props) {
                   <i class="material-symbols-outlined">
                     <span class="material-symbols-outlined">mail</span>
                   </i>
-                  <p style={{ margin: "2%" }}>ourstudio@hello.com</p>
+                  <p style={{ margin: "2%" }}>naddechan@gmail.com</p>
                 </div>
               </div>
 
@@ -219,7 +219,7 @@ function App(props) {
                   <i class="material-symbols-outlined">
                     <span class="material-symbols-outlined">call</span>
                   </i>
-                  <p style={{ margin: "2%" }}>+271 386-647-3637</p>
+                  <p style={{ margin: "2%" }}>+111 123-456-789</p>
                 </div>
               </div>
             </div>

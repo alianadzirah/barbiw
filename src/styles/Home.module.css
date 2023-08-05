@@ -200,7 +200,7 @@
 
 /* content style start here */
 .content {
-    background-image: linear-gradient(to right, black, #302D28);
+    background-image: linear-gradient(to right, #ffc2d1, white);
     padding: 10%;
 }
 
@@ -254,6 +254,7 @@
 }
 
 .main_card_title {
+    text-decoration: none;
     margin-left: 3%;
     margin-top: -5%;
     font-weight: 700;
@@ -262,6 +263,7 @@
 }
 
 .card_title_main {
+    text-decoration: none;
     margin-left: 3%;
     margin-top: -10%;
     font-weight: 700;
@@ -287,6 +289,7 @@
     justify-content: center;
     align-items: center;
     display: grid;
+    row-gap: 1%;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
@@ -320,6 +323,7 @@
 }
 
 .card_title {
+    text-decoration: none;
     margin-left: 5%;
     margin-top: -10%;
     font-weight: 700;
@@ -338,7 +342,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: black;
+    color: white;
     margin-left: 3%;
     font-size: 90%;
     font-weight: 400;
@@ -355,7 +359,7 @@
 }
 
 .footer_section1 {
-    background-color: #3d3d3d;
+    background-color: #ffc2d1;
     padding: 10%;
 }
 
@@ -375,7 +379,7 @@
 }
 
 .footer_section2 {
-    background-color: #2e2e2e;
+    background-color: #ffb3c6;
     padding: 10%;
 }
 
@@ -407,13 +411,13 @@
 .studio_info {
     display: flex;
     align-items: center;
-    color: #ccc;
+    color: #444;
     font-size: 90%;
     font-weight: 400;
 }
 
 .email_form_base {
-    background-color: #525252;
+    background-color: #ffb3c6;
     border-radius: 10px;
     width: 250px;
     padding: 15px;
@@ -425,7 +429,7 @@
 .email_form_submit {
     border-radius: 10px;
     padding: 15px;
-    background-color: #edafb8;
+    background-color: #ee7c99;
     border: none;
 }
 
@@ -434,6 +438,11 @@
 }
 
 /* footer style end here */
+
+.movie_link {
+    text-decoration: none;
+    color: white;
+}
 
 @media (max-width: 820px) {
     .footer {

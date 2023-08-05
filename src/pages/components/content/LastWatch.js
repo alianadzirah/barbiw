@@ -55,7 +55,7 @@ function LastWatch(props) {
             </div>
 
             <div className={styles.main_card_title}>
-              <p>{movies[0].Title}</p>
+            <a className={styles.movie_link} href={movies[0].Link}><p>{movies[0].Title}</p></a>
             </div>
           </div>
 
@@ -86,7 +86,7 @@ function LastWatch(props) {
             </div>
 
             <div className={styles.card_title_main}>
-              <p>{movies[1].Title}</p>
+            <a className={styles.movie_link} href={movies[1].Link}><p>{movies[1].Title}</p></a>
             </div>
           </div>
         </div>
@@ -121,7 +121,7 @@ function LastWatch(props) {
                 </div>
 
                 <div className={styles.card_title}>
-                  <p>{movie.Title}</p>
+                <a className={styles.movie_link} href={movie.Link}><p>{movie.Title}</p></a>
                 </div>
               </div>
             );

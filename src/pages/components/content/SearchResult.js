@@ -52,7 +52,7 @@ function LastWatch() {
                 </div>
 
                 <div className={styles.card_title}>
-                  <p>{movie.Title}</p>
+                  <a className={styles.movie_link} href={movie.Link}><p>{movie.Title}</p></a>
                 </div>
               </div>
             );

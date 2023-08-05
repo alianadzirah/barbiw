@@ -4,6 +4,7 @@
           "Movie_ID": 2,
           "Title": "Barbie in the Nutcracker",
           "Genre": "2001",
+          "Link": "",
           "Duration": "1 hour 20 minutes",
           "Views": "21.1k",
           "Poster": "https://www.listchallenges.com/f/items2020/463394ee-dd78-4b74-9822-71a66c3f16ba.jpg",
@@ -31,7 +32,7 @@
           "Description": "A Chinese family discovers their grandmother has only a short while left to live and decide to keep her in the dark, scheduling a wedding to gather before she dies."
       },
       {
-          "Movie_ID": 11,
+          "Movie_ID": 5,
           "Title": "Barbie as the Princess & the Pauper",
           "Genre": "2004",
           "Duration": "1 hour 20 minutes",
@@ -41,7 +42,7 @@
           "Description": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together."
       },
       {
-          "Movie_ID": 12,
+          "Movie_ID": 6,
           "Title": "Barbie: Fairytopia",
           "Genre": "2005",
           "Duration": "1 hour 20 minutes",
@@ -49,6 +50,26 @@
           "Poster": "https://www.listchallenges.com/f/items2020/33e8c283-31f1-4c5b-9bfb-d5de2810560a.jpg",
           "Overall_rating": 8.2,
           "Description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night."
-      }
+      },
+      {
+        "Movie_ID": 7,
+        "Title": "Barbie and the Magic of Pegasus 3-D",
+        "Genre": "2005",
+        "Duration": "1 hour 20 minutes",
+        "Views": "21.1k",
+        "Poster": "https://www.listchallenges.com/f/items2020/0413fd4b-8f31-4de2-a264-4a787adf2665.jpg",
+        "Overall_rating": 8.2,
+        "Description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night."
+    },
+    {
+        "Movie_ID": 8,
+        "Title": "Barbie: Fairytopia",
+        "Genre": "2005",
+        "Duration": "1 hour 20 minutes",
+        "Views": "21.1k",
+        "Poster": "https://www.listchallenges.com/f/items2020/33e8c283-31f1-4c5b-9bfb-d5de2810560a.jpg",
+        "Overall_rating": 8.2,
+        "Description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night."
+    }
   ]
 }
