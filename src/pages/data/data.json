@@ -15,6 +15,7 @@
           "Movie_ID": 3,
           "Title": "Barbie as Rapunzel ",
           "Genre": "2002",
+          "Link": "",
           "Duration": "1 hour 20 minutes",
           "Views": "21.1k",
           "Poster": "https://www.listchallenges.com/f/items2020/9e6deb54-526d-4ce6-81a8-e1597ae5eef9.jpg",
@@ -25,6 +26,7 @@
           "Movie_ID": 4,
           "Title": "Barbie of Swan Lake",
           "Genre": "2003",
+          "Link": "",
           "Duration": "1 hour 20 minutes",
           "Views": "21.1k",
           "Poster": "https://www.listchallenges.com/f/items2020/cb097bd1-8532-41f1-8510-ecc6678f563d.jpg",
@@ -35,6 +37,7 @@
           "Movie_ID": 5,
           "Title": "Barbie as the Princess & the Pauper",
           "Genre": "2004",
+          "Link": "https://www.fmovies.fo/watch/barbie-as-the-princess-and-the-pauper",
           "Duration": "1 hour 20 minutes",
           "Views": "21.1k",
           "Poster": "https://www.listchallenges.com/f/items2020/7eea7023-0f83-457e-99ec-24f2d21570dc.jpg",
@@ -45,6 +48,7 @@
           "Movie_ID": 6,
           "Title": "Barbie: Fairytopia",
           "Genre": "2005",
+          "Link": "",
           "Duration": "1 hour 20 minutes",
           "Views": "21.1k",
           "Poster": "https://www.listchallenges.com/f/items2020/33e8c283-31f1-4c5b-9bfb-d5de2810560a.jpg",
@@ -55,6 +59,7 @@
         "Movie_ID": 7,
         "Title": "Barbie and the Magic of Pegasus 3-D",
         "Genre": "2005",
+        "Link": "",
         "Duration": "1 hour 20 minutes",
         "Views": "21.1k",
         "Poster": "https://www.listchallenges.com/f/items2020/0413fd4b-8f31-4de2-a264-4a787adf2665.jpg",
@@ -63,13 +68,70 @@
     },
     {
         "Movie_ID": 8,
-        "Title": "Barbie: Fairytopia",
+        "Title": "Barbie Diaries",
         "Genre": "2005",
+        "Link": "",
         "Duration": "1 hour 20 minutes",
         "Views": "21.1k",
-        "Poster": "https://www.listchallenges.com/f/items2020/33e8c283-31f1-4c5b-9bfb-d5de2810560a.jpg",
+        "Poster": "https://www.listchallenges.com/f/items2020/3347932c-a936-409f-acc5-f833422311dd.jpg",
+        "Overall_rating": 8.2,
+        "Description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night."
+    },
+    {
+        "Movie_ID": 9,
+        "Title": "Barbie Fairytopia: Mermaidia",
+        "Genre": "2006",
+        "Link": "",
+        "Duration": "1 hour 20 minutes",
+        "Views": "21.1k",
+        "Poster": "https://www.listchallenges.com/f/items2020/b4254a8a-e5c8-4d2c-b09f-c065029336e3.jpg",
+        "Overall_rating": 8.2,
+        "Description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night."
+    },
+    {
+        "Movie_ID": 10,
+        "Title": "Barbie in the 12 Dancing Princesses",
+        "Genre": "2006",
+        "Link": "https://www.fmovies.fo/watch/barbie-in-the-12-dancing-princesses",
+        "Duration": "1 hour 20 minutes",
+        "Views": "21.1k",
+        "Poster": "https://www.listchallenges.com/f/items2020/fd3003e1-afb2-438b-8a3a-b1858f92eaf0.jpg",
+        "Overall_rating": 8.2,
+        "Description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night."
+    },
+    {
+        "Movie_ID": 11,
+        "Title": "Barbie Fairytopia: Magic of the Rainbow",
+        "Genre": "2007",
+        "Link": "",
+        "Duration": "1 hour 20 minutes",
+        "Views": "21.1k",
+        "Poster": "https://www.listchallenges.com/f/items2020/6c396a91-e8ce-4ab6-b138-d0a1ab108ef3.jpg",
+        "Overall_rating": 8.2,
+        "Description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night."
+    },
+    {
+        "Movie_ID": 12,
+        "Title": "Barbie as the Island Princess",
+        "Genre": "2007",
+        "Link": "",
+        "Duration": "1 hour 20 minutes",
+        "Views": "21.1k",
+        "Poster": "https://www.listchallenges.com/f/items2020/6e30520c-d2ed-44ee-949b-ebaaff83b901.jpg",
+        "Overall_rating": 8.2,
+        "Description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night."
+    },
+    {
+        "Movie_ID": 13,
+        "Title": "Barbie Mariposa and Her Butterfly Fairy Friends",
+        "Genre": "2008",
+        "Link": "",
+        "Duration": "1 hour 20 minutes",
+        "Views": "21.1k",
+        "Poster": "https://www.listchallenges.com/f/items2020/4393c1b9-a305-47fd-aa37-ecb3e1faa81f.jpg",
         "Overall_rating": 8.2,
         "Description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night."
     }
+    
   ]
 }
