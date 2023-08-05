@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/barbiw/static/css/main.9e4c4a37.css",
-    "main.js": "/barbiw/static/js/main.90733934.js",
+    "main.css": "/barbiw/static/css/main.3ff47ee4.css",
+    "main.js": "/barbiw/static/js/main.da6fe58e.js",
     "index.html": "/barbiw/index.html",
-    "main.9e4c4a37.css.map": "/barbiw/static/css/main.9e4c4a37.css.map",
-    "main.90733934.js.map": "/barbiw/static/js/main.90733934.js.map"
+    "main.3ff47ee4.css.map": "/barbiw/static/css/main.3ff47ee4.css.map",
+    "main.da6fe58e.js.map": "/barbiw/static/js/main.da6fe58e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e4c4a37.css",
-    "static/js/main.90733934.js"
+    "static/css/main.3ff47ee4.css",
+    "static/js/main.da6fe58e.js"
   ]
 }
