@@ -39,7 +39,7 @@ function LastWatch(props) {
             }}
           >
             <div className={styles.card_label}>
-              <p>{movies[0].Genre}</p>
+              <p>{movies[0].Year}</p>
             </div>
 
             <div className={styles.main_card_detail}>
@@ -70,7 +70,7 @@ function LastWatch(props) {
             }}
           >
             <div className={styles.card_label}>
-              <p>{movies[1].Genre}</p>
+              <p>{movies[1].Year}</p>
             </div>
 
             <div className={styles.card_detail_main}>
@@ -105,7 +105,7 @@ function LastWatch(props) {
                 }}
               >
                 <div className={styles.card_label}>
-                  <p>{movie.Genre}</p>
+                  <p>{movie.Year}</p>
                 </div>
 
                 <div className={styles.card_detail}>

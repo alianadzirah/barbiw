@@ -36,7 +36,7 @@ function LastWatch() {
                 }}
               >
                 <div className={styles.card_label}>
-                  <p>{movie.Genre}</p>
+                  <p>{movie.Year}</p>
                 </div>
 
                 <div className={styles.card_detail_main}>

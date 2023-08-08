@@ -299,8 +299,7 @@
     align-items: center;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    row-gap: 1.5%;
-    column-gap: 0.5%;
+    row-gap: 0.5%;
 }
 
 .content_row_card {
@@ -515,6 +514,10 @@
         height: 100%;
         margin: 1.5%;
         padding: 1%;
+    }
+
+    .content_row_card {
+        row-gap: 0.5%;
     }
 
     .main_card_label {
